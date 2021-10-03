@@ -2,7 +2,7 @@
 /*
 Plugin Name: Easy Ame
 Plugin URI: https://ame.im/
-Description: Плагин для упрошённой интеграции чат бота Ame на ваш сайт. 
+Description: Плагин для упрощенной интеграции чат бота Ame на ваш сайт. 
 Version: 0.1
 Author: MrMarL
 Author URI: https://vk.com/mrmarl
